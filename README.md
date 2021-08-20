@@ -1,5 +1,8 @@
 # hackathon-text2cql
 Generate CQL from medical text snippets - created as part of an Alvearie hackathon
+
+***
+
 This repository contains artifacts created as part of the first Watson Health Project Alvearie Hackathon.  The event took place April 7-9, 2021.
 
 #### Folders
