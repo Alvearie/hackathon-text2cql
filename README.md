@@ -5,7 +5,7 @@ This repository contains artifacts created as part of the first Watson Health Pr
 #### Folders
 - key-concept-extractor (a service to extract coded concepts from text fragments)
 - cql-generator (a service to generate a cql query from fragment classification and concept extraction)
-- learned-intent (a service to classify a text fragment into a medical category
+- learned-intent (a service to classify a text fragment into a medical category **currently missing from this repository-coming soon**
 - notebooks (provide the overall flow calling off to the services as needed)
 - Patients (a collection of artificial patients, should be persisted into a fhir server)
 
