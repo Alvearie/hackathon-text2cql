@@ -1,0 +1,8 @@
+Criterion,Intent
+A - Creatinine <= 2.0 mg/dL or \"creatinine clearance\" >= 50 mL/min,creatinine
+B - Creatinine <= 1.0 mg/dL,creatinine
+C - Creatinine < 1.5 x institutional ULN,creatinine
+The subject has legal incapacity or limited legal capacity.,legal-capacity
+"A - Subjects who have a history of documented autoimmune disease, even if not clinically severe or never treated with systemic steroids or immunosuppressive agents, are not candidates for this clinical trial, except for autoimmune hypothyroidism and well-controlled Type 1 diabetes mellitus (Hgb A1C <= 6.5%).",no-diabetes
+B - Subjects with controlled Type I diabetes mellitus on a stable dose of insulin regimen may be eligible for this trial,no-diabetes
+C - Clinical history of Type I or Type II diabetes.,no-diabetes

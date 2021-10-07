@@ -1,0 +1,3 @@
+C - Clinical history of Type I or Type II diabetes.
+A - Subjects who have a history of documented autoimmune disease, even if not clinically severe or never treated with systemic steroids or immunosuppressive agents, are not candidates for this clinical trial, except for autoimmune hypothyroidism and well-controlled Type 1 diabetes mellitus (Hgb A1C <= 6.5%).
+B - Subjects with controlled Type I diabetes mellitus on a stable dose of insulin regimen may be eligible for this trial

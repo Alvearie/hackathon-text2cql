@@ -1,0 +1,3 @@
+C - Creatinine < 1.5 x institutional ULN
+B - Creatinine <= 1.0 mg/dL
+A - Creatinine <= 2.0 mg/dL or \"creatinine clearance\" >= 50 mL/min

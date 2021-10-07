@@ -1,0 +1,8 @@
+Adequate liver function defined as:
+Adequate renal and liver function defined as the following:
+Palpable hepatomegaly with impairment of liver function, ascites, and/or portal hypertension.
+# Comments are allowed
+
+
+
+# Empty lines are skipped

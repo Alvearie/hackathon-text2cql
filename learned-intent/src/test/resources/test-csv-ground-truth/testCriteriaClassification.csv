@@ -1,0 +1,8 @@
+Criterion,Intent
+The subject has legal incapacity or limited legal capacity.,legal-capacity
+Clinical history of Type I or Type II diabetes.,no-diabetes
+"Subjects who have a history of documented autoimmune disease, even if not clinically severe or never treated with systemic steroids or immunosuppressive agents, are not candidates for this clinical trial, except for autoimmune hypothyroidism and well-controlled Type 1 diabetes mellitus (Hgb A1C <= 6.5%).",no-diabetes
+Subjects with controlled Type I diabetes mellitus on a stable dose of insulin regimen may be eligible for this trial,no-diabetes
+Creatinine < 1.5 x institutional ULN,creatinine
+Creatinine <= 1.0 mg/dL,creatinine
+Creatinine <= 2.0 mg/dL,creatinine

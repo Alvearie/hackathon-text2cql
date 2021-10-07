@@ -1,0 +1,4 @@
+Female patient volunteers aged 18 years and older
+Age >= 18 years old.
+Patients must be 18 years of age or older.
+Age 18 years or older.
