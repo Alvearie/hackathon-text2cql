@@ -1,18 +1,12 @@
 # hackathon-text2cql
 Generate CQL from medical text snippets - created as part of an Alvearie hackathon
 
-***
-
-This repository is **INCOMPLETE** Transfer is in progress as of 08/20/2021.
-
-***
-
 This repository contains artifacts created as part of the first Watson Health Project Alvearie Hackathon.  The event took place April 7-9, 2021.
 
 #### Folders
 - key-concept-extractor (a service to extract coded concepts from text fragments)
 - cql-generator (a service to generate a cql query from fragment classification and concept extraction)
-- learned-intent (a service to classify a text fragment into a medical category **[currently missing from this repository-coming soon]**
+- learned-intent (a service to classify a text fragment into a medical category
 - notebooks (provide the overall flow calling off to the services as needed)
 - Patients (a collection of artificial patients, should be persisted into a fhir server)
 
